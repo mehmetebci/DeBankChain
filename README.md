@@ -1,10 +1,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeBankDeFi?style=social)](https://twitter.com/DeBankDeFi)
 [![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.com/invite/KYuj8DE)
 # DeBankChain - DeBank layer 2 solution
-
 The DeBankChain is the Layer 2 scaling solution powered by [bedrock version](https://community.optimism.io/docs/developers/bedrock/) of Optimism OP Stack.
-
-
 ## Features
 
 Besides the [differentiators of bedrock](https://community.optimism.io/docs/developers/bedrock/differences/), DeBankChain is the solution that we aim to provide the better optimistic rollup solution.
